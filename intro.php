@@ -12,5 +12,5 @@ echo"<hr>";
 echo "finding the GCD of a number";
 
 
-
+echo 10+10;
 echo 1+1;
